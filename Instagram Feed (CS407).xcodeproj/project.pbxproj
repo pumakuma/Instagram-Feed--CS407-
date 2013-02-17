@@ -899,6 +899,7 @@
 				360EF87116D036E5001C4BBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		360EF87216D036E5001C4BBB /* Build configuration list for PBXNativeTarget "Instagram Feed (CS407)Tests" */ = {
 			isa = XCConfigurationList;
@@ -907,6 +908,7 @@
 				360EF87416D036E5001C4BBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
